@@ -1,3 +1,6 @@
+## About Me
+I have just finished a rigorous 6 month 1000+ hour bootcamp at App Academy and looking forward to gaining professional experience as a software developer. I am really passionate about learning and love it when I see any signs of improvement in my work as I refine my knowledge in various languages and technologies.
+
 ## My Projects
 
 <a href="https://hangry-capstone.herokuapp.com//"/>Hangry</a> A Yelp clone with CRUD functionality of businesses and reviews.
