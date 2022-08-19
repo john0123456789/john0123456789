@@ -32,3 +32,7 @@ I have just finished a rigorous 6 month 1000+ hour bootcamp at App Academy and l
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+## Contact Me
+
+<a href="https://www.linkedin.com/in/johnluongpham/" rel="nofollow"><img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="image" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a> <a href="https://angel.co/u/john-luong-pham" rel="nofollow"><img src="https://camo.githubusercontent.com/fdd627a967b9943dcc0811b47c62b1cb6578da40fe3d164514257ee57f0563d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e67656c4c6973742d6236623962393f7374796c653d666f722d7468652d6261646765266c6f676f3d416e67656c4c697374266c6f676f436f6c6f723d626c61636b" alt="image" data-canonical-src="https://img.shields.io/badge/AngelList-b6b9b9?style=for-the-badge&amp;logo=AngelList&amp;logoColor=black" style="max-width: 100%;"></a>
